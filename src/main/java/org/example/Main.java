@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("v1.0 master change");
         System.out.println("v1.0 git push");
+        System.out.println("v1.0 git push02");
     }
 }
